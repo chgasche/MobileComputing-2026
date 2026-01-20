@@ -1,6 +1,6 @@
 # Mobile Computing 521046A: Exercise 1
 * **Author:** Christoph Gasche <christoph.gasche@student.oulu.fi>
-* **GitHub Link:** <>
+* **GitHub Link:** <https://github.com/chgasche/MobileComputing-2026/tree/master/Homework1>
 
 ## Description of the task
 
@@ -82,4 +82,5 @@ Some challenges I faced that went beyond the content of the tutorial:
 - ***How to publish to GitHub?***
 	For that, I followed the following tutorial on YouTube: <https://www.youtube.com/watch?v=GhfJTOu3_SE>
 	
+
 	There is *VCS* integration in *Android Studio*. Once a new GitHub repository has been created (I did this online on the website), the repo link can be added to *Android Studio*. Then a branch "*master*" can be pushed.
