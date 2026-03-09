@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.FlightLog" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.FlightLog.Splash" parent="Theme.SplashScreen">
+        <!-- Background color -->
+        <item name="windowSplashScreenBackground">#DDEAFF</item>
+        <!-- Your app logo -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/animated_logo</item>
+        <!-- Animation duration -->
+        <item name="windowSplashScreenAnimationDuration">500</item>
+        <!-- Optional: remove status bar until transition -->
+        <item name="postSplashScreenTheme">@style/Theme.FlightLog</item>
+    </style>
+</resources>
